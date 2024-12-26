@@ -19,4 +19,4 @@ This project extracts data from Unified_UW_queue, transforms the data, and loads
 3. Use the SQL queries to create tables and load data into Snowflake.
 
 ## Contact
-For questions, contact me at [anwar.shan2009@example.com].
+For questions, contact me at [anwar.shan2009@gmail.com].
